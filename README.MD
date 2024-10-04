@@ -94,7 +94,7 @@ After completing your implementation, please submit your project as follows:
    - If possible, deploy your application to a free hosting service (e.g., Heroku, Netlify, Vercel)
    - Include the live URL in your README
 
-## Development Approach for 8-Hour Implementation
+## Development Approach 
 
 1. Choose and set up your preferred tech stack quickly
 2. Implement basic backend structure and database connection
