@@ -72,6 +72,28 @@ Provide clear instructions for:
 4. Starting the backend server
 5. Starting the frontend development server
 
+## Project Submission
+
+After completing your implementation, please submit your project as follows:
+
+1. **GitHub Repository**
+   - Push your code to a public GitHub repository
+   - Ensure your repository includes:
+     - All source code (backend and frontend)
+     - This README with setup instructions
+     - Any additional documentation you created
+
+2. **README Updates**
+   - Update this README with:
+     - Specific technologies you chose and why
+     - Any challenges you faced and how you overcame them
+     - Features you implemented and any you didn't have time for
+     - Instructions for running your application locally
+
+3. **Deployment (Optional)**
+   - If possible, deploy your application to a free hosting service (e.g., Heroku, Netlify, Vercel)
+   - Include the live URL in your README
+
 ## Development Approach for 8-Hour Implementation
 
 1. Choose and set up your preferred tech stack quickly
